@@ -1,11 +1,11 @@
 joint_names:
-  - $(arg prefix)joint_1
-  - $(arg prefix)joint_2
-  - $(arg prefix)joint_3
-  - $(arg prefix)joint_4
-  - $(arg prefix)joint_5
-  - $(arg prefix)joint_6
-  - $(arg prefix)joint_7
+  - kinova_joint_1
+  - kinova_joint_2
+  - kinova_joint_3
+  - kinova_joint_4
+  - kinova_joint_5
+  - kinova_joint_6
+  - kinova_joint_7
 maximum_velocities:
   - 0.8727
   - 0.8727
